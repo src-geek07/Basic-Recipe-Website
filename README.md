@@ -1,1 +1,3 @@
 # Basic-Recipe-Website
+This project is a basic recipe website made purely by HTML.
+Once completed, I will have learned git,html and how to use them...
